@@ -29,49 +29,8 @@ I enjoy the process of turning an idea into a functional, beautiful application.
 </div>
 
  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Ym5ic2dxZ2U3N3FxYnZkZjR0c2ZlbzduN2ZobzM3ZXU4YWlwa2h1eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KEYMsj2LcXzfcTP5ii/giphy.gif" height="190"  />
-Languages:
 
-JavaScript
 
-Python
-
-HTML/CSS
-
-SQL
-
-Frameworks & Libraries:
-
-React
-
-Node.js
-
-Express
-
-Tailwind CSS
-
-Tools & Platforms:
-
-Git & GitHub
-
-VS Code
-
-Firebase
-
-Vercel
-
-🌱 I'm currently learning about...
-Advanced React Hooks: Deep diving into custom hooks and state management with Context API.
-
-Serverless Functions: Exploring AWS Lambda and Google Cloud Functions.
-
-Data Structures and Algorithms: Improving my foundational knowledge to write more efficient code.
-
-🤝 Let's connect!
-LinkedIn: Your LinkedIn Profile URL
-
-Twitter: Your Twitter Profile URL
-
-Portfolio/Website: Your Website URL
 
 📊 My GitHub Stats
 "The only way to do great work is to love what you do." - Steve Jobs
